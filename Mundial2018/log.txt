@@ -1,0 +1,2613 @@
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+Se ha eliminado el equipo : EGIPTO
+
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+Se ha eliminado el equipo : EGIPTO
+
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+Se ha eliminado el equipo : EGIPTO
+
+Fin Ejecucion Sistema...Estructuras:  
+Equipos:Padre: IRAN dato asociado Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 5
+Hijo izquierdo: CROACIA Hijo derecho: PORTUGAL 
+
+Padre: CROACIA dato asociado Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 4
+Hijo izquierdo: AUSTRALIA Hijo derecho: FRANCIA 
+
+Padre: AUSTRALIA dato asociado Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 3
+Hijo izquierdo: ARABIAS Hijo derecho: COREASUR 
+
+Padre: ARABIAS dato asociado Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 1
+Hijo izquierdo: ALEMANIA Hijo derecho: ARGENTINA 
+
+Padre: ALEMANIA dato asociado Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 3
+Goles a Favor: 7
+Goles en contra: 1 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: ARGENTINA dato asociado Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 6
+Goles a Favor: 6
+Goles en contra: 6 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: COREASUR dato asociado Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 2
+Hijo izquierdo: BRASIL Hijo derecho: COSTARICA 
+
+Padre: BRASIL dato asociado Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 3
+Goles en contra: 10 ALTURA 1
+Hijo izquierdo: BELGICA  Hijo derecho: No tiene 
+
+Padre: BELGICA dato asociado Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: COSTARICA dato asociado Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: FRANCIA dato asociado Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 2
+Hijo izquierdo: DINAMARCA Hijo derecho: INGLATERRA 
+
+Padre: DINAMARCA dato asociado Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 1
+Hijo izquierdo: No tiene Hijo derecho: ESPANIA 
+
+Padre: ESPANIA dato asociado Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: INGLATERRA dato asociado Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: PORTUGAL dato asociado Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 1
+Goles en contra: 2 ALTURA 3
+Hijo izquierdo: NIGERIA Hijo derecho: SUIZA 
+
+Padre: NIGERIA dato asociado Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 2
+Hijo izquierdo: MARRUECOS Hijo derecho: PERU 
+
+Padre: MARRUECOS dato asociado Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 1
+Hijo izquierdo: ISLANDIA Hijo derecho: MEXICO 
+
+Padre: ISLANDIA dato asociado Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 3
+Goles a Favor: 3
+Goles en contra: 1 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: MEXICO dato asociado Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: PERU dato asociado Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 1
+Hijo izquierdo: PANAMA  Hijo derecho: No tiene 
+
+Padre: PANAMA dato asociado Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: SUIZA dato asociado Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 2
+Hijo izquierdo: SERBIA Hijo derecho: URUGUAY 
+
+Padre: SERBIA dato asociado Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 1
+Hijo izquierdo: RUSIA Hijo derecho: SUECIA 
+
+Padre: RUSIA dato asociado Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: SUECIA dato asociado Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Padre: URUGUAY dato asociado Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 3
+Goles a Favor: 1
+Goles en contra: 0 ALTURA 1
+Hijo izquierdo: TUNEZ  Hijo derecho: No tiene 
+
+Padre: TUNEZ dato asociado Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0 ALTURA 0
+Hijo izquierdo: No tiene  Hijo derecho: No tiene 
+
+Ciudades:El Vertice: TIUMEN.
+Tiene los siguientes arcos: 
+Etiqueta: 333.0 ------> EKATERIMBURGO
+Etiqueta: 788.0 ------> SURGUT
+
+El Vertice: VORONEZH.
+Tiene los siguientes arcos: 
+Etiqueta: 575.0 ------> VOLGOGRADO
+Etiqueta: 564.0 ------> ROSTOV
+Etiqueta: 524.0 ------> MOSCU
+
+El Vertice: VOLGOGRADO.
+Tiene los siguientes arcos: 
+Etiqueta: 380.0 ------> SARATOV
+Etiqueta: 575.0 ------> VORONEZH
+Etiqueta: 474.0 ------> ROSTOV
+
+El Vertice: SARATOV.
+Tiene los siguientes arcos: 
+Etiqueta: 380.0 ------> VOLGOGRADO
+Etiqueta: 436.0 ------> SAMARA
+
+El Vertice: SURGUT.
+Tiene los siguientes arcos: 
+Etiqueta: 788.0 ------> TIUMEN
+Etiqueta: 1100.0 ------> EKATERIMBURGO
+
+El Vertice: IZHEVSK.
+Tiene los siguientes arcos: 
+Etiqueta: 390.0 ------> KAZAN
+
+El Vertice: PERM.
+Tiene los siguientes arcos: 
+Etiqueta: 362.0 ------> EKATERIMBURGO
+Etiqueta: 671.0 ------> KAZAN
+
+El Vertice: UFA.
+Tiene los siguientes arcos: 
+Etiqueta: 460.0 ------> SAMARA
+Etiqueta: 935.0 ------> NIZHNINOVGOROD
+
+El Vertice: SAMARA.
+Tiene los siguientes arcos: 
+Etiqueta: 436.0 ------> SARATOV
+Etiqueta: 1050.0 ------> MOSCU
+Etiqueta: 460.0 ------> UFA
+
+El Vertice: SANPETERSBURGO.
+Tiene los siguientes arcos: 
+Etiqueta: 965.0 ------> KALININGRADO
+Etiqueta: 1210.0 ------> NIZHNINOVGOROD
+Etiqueta: 713.0 ------> MOSCU
+
+El Vertice: ROSTOV.
+Tiene los siguientes arcos: 
+Etiqueta: 474.0 ------> VOLGOGRADO
+Etiqueta: 564.0 ------> VORONEZH
+Etiqueta: 1076.0 ------> MOSCU
+
+El Vertice: NIZHNINOVGOROD.
+Tiene los siguientes arcos: 
+Etiqueta: 935.0 ------> UFA
+Etiqueta: 400.0 ------> KAZAN
+Etiqueta: 471.0 ------> MOSCU
+Etiqueta: 1210.0 ------> SANPETERSBURGO
+
+El Vertice: KAZAN.
+Tiene los siguientes arcos: 
+Etiqueta: 671.0 ------> PERM
+Etiqueta: 390.0 ------> IZHEVSK
+Etiqueta: 400.0 ------> NIZHNINOVGOROD
+
+El Vertice: EKATERIMBURGO.
+Tiene los siguientes arcos: 
+Etiqueta: 333.0 ------> TIUMEN
+Etiqueta: 1100.0 ------> SURGUT
+Etiqueta: 362.0 ------> PERM
+
+El Vertice: MOSCU.
+Tiene los siguientes arcos: 
+Etiqueta: 524.0 ------> VORONEZH
+Etiqueta: 1050.0 ------> SAMARA
+Etiqueta: 471.0 ------> NIZHNINOVGOROD
+Etiqueta: 1076.0 ------> ROSTOV
+Etiqueta: 713.0 ------> SANPETERSBURGO
+Etiqueta: 1250.0 ------> KALININGRADO
+
+El Vertice: KALININGRADO.
+Tiene los siguientes arcos: 
+Etiqueta: 965.0 ------> SANPETERSBURGO
+Etiqueta: 1250.0 ------> MOSCU
+
+Partidos:
+Clave: [eq1: ARGENTINA, eq2: ISLANDIA].
+ Partido: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Clave: [eq1: ARGENTINA, eq2: PORTUGAL].
+ Partido: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Clave: [eq1: EGIPTO, eq2: URUGUAY].
+ Partido: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+
+Clave: [eq1: ALEMANIA, eq2: BRASIL].
+ Partido: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Clave: [eq1: ARGENTINA, eq2: BRASIL].
+ Partido: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+Tabla Posiciones:1 ) ARGENTINA Puntos: 6 DifGol: 0
+2 ) ALEMANIA Puntos: 3 DifGol: 6
+3 ) ISLANDIA Puntos: 3 DifGol: 2
+4 ) URUGUAY Puntos: 3 DifGol: 1
+5 ) TUNEZ Puntos: 0 DifGol: 0
+6 ) SUIZA Puntos: 0 DifGol: 0
+7 ) SUECIA Puntos: 0 DifGol: 0
+8 ) SERBIA Puntos: 0 DifGol: 0
+9 ) RUSIA Puntos: 0 DifGol: 0
+10 ) PERU Puntos: 0 DifGol: 0
+11 ) PANAMA Puntos: 0 DifGol: 0
+12 ) NIGERIA Puntos: 0 DifGol: 0
+13 ) MEXICO Puntos: 0 DifGol: 0
+14 ) MARRUECOS Puntos: 0 DifGol: 0
+15 ) IRAN Puntos: 0 DifGol: 0
+16 ) INGLATERRA Puntos: 0 DifGol: 0
+17 ) FRANCIA Puntos: 0 DifGol: 0
+18 ) ESPANIA Puntos: 0 DifGol: 0
+19 ) DINAMARCA Puntos: 0 DifGol: 0
+20 ) CROACIA Puntos: 0 DifGol: 0
+21 ) COSTARICA Puntos: 0 DifGol: 0
+22 ) COREASUR Puntos: 0 DifGol: 0
+23 ) BELGICA Puntos: 0 DifGol: 0
+24 ) AUSTRALIA Puntos: 0 DifGol: 0
+25 ) ARABIAS Puntos: 0 DifGol: 0
+26 ) PORTUGAL Puntos: 0 DifGol: -1
+27 ) BRASIL Puntos: 0 DifGol: -7
+
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
+Equipo agregado : Seleccion: RUSIA
+Director Tecnico: CHERCHESOV
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARABIAS
+Director Tecnico: PIZZI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: EGIPTO
+Director Tecnico: CUPER
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: URUGUAY
+Director Tecnico: TABAREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PORTUGAL
+Director Tecnico: SANTOS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ESPANIA
+Director Tecnico: LOPETEGUI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MARRUECOS
+Director Tecnico: RENARD
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: IRAN
+Director Tecnico: QUEIROZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: FRANCIA
+Director Tecnico: DESCHAMPS
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: AUSTRALIA
+Director Tecnico: VANMARWIJK
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PERU
+Director Tecnico: GARECA
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: DINAMARCA
+Director Tecnico: HAREIDE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ARGENTINA
+Director Tecnico: SAMPAOLI
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ISLANDIA
+Director Tecnico: HALLGRIMSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: CROACIA
+Director Tecnico: DALIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: NIGERIA
+Director Tecnico: ROHR
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BRASIL
+Director Tecnico: TITE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUIZA
+Director Tecnico: PETKOVIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COSTARICA
+Director Tecnico: RAMIREZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SERBIA
+Director Tecnico: KRSTAJIC
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: ALEMANIA
+Director Tecnico: LOEW
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: MEXICO
+Director Tecnico: OSORIO
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: COREASUR
+Director Tecnico: TAEYONG
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: SUECIA
+Director Tecnico: ANDERSSON
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: BELGICA
+Director Tecnico: MARTINEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: PANAMA
+Director Tecnico: GOMEZ
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: TUNEZ
+Director Tecnico: MAALOUL
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Equipo agregado : Seleccion: INGLATERRA
+Director Tecnico: SOUTHGATE
+Puntos: 0
+Goles a Favor: 0
+Goles en contra: 0
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KALININGRADO
+ Superficie: 223.0
+ Cantidad Habitantes: 437456
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: MOSCU
+ Superficie: 2511.0
+ Cantidad Habitantes: 11920000
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: EKATERIMBURGO
+ Superficie: 490.0
+ Cantidad Habitantes: 1455904
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: KAZAN
+ Superficie: 409.0
+ Cantidad Habitantes: 1243500
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: NIZHNINOVGOROD
+ Superficie: 673.0
+ Cantidad Habitantes: 1264075
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: ROSTOV
+ Superficie: 354.0
+ Cantidad Habitantes: 1125299
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SANPETERSBURGO
+ Superficie: 1439.0
+ Cantidad Habitantes: 5351935
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SAMARA
+ Superficie: 466.0
+ Cantidad Habitantes: 1169719
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: UFA
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: PERM
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: IZHEVSK
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SURGUT
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: SARATOV
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VOLGOGRADO
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: true
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: VORONEZH
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+Ciudad Agregada Informacion Ciudad 
+ Nombre: TIUMEN
+ Superficie: 2.0
+ Cantidad Habitantes: 2
+ Sede: false
+
+
+Partido agregado: ARGENTINA: 1 VS  ISLANDIA : 3
+Ciudad: MOSCU
+Fase: GRUPO
+
+Partido agregado: BRASIL: 1 VS  ALEMANIA : 7
+Ciudad: KALININGRADO
+Fase: FINAL
+
+Partido agregado: BRASIL: 2 VS  ARGENTINA : 3
+Ciudad: KALININGRADO
+Fase: GRUPO
+
+Partido agregado: PORTUGAL: 1 VS  ARGENTINA : 2
+Ciudad: KALININGRADO
+Fase: CUARTOS
+
+Partido agregado: EGIPTO: 0 VS  URUGUAY : 1
+Ciudad: EKATERIMBURGO
+Fase: GRUPO
